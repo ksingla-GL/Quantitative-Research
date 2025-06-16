@@ -1,0 +1,5 @@
+POTENTIAL IDEAS
+
+1.Buy straddle if vol%>op price%
+2.Buy nifty cash contituents and sell nifty future when premium is high enough
+3.Compute which ops are best to buy in terms of %movement when movement is favourable. ITM,OTM,ATM.
